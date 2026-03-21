@@ -1,8 +1,0 @@
-[x] - Установка PostgreSQL
-[x] - Установка Insomnia + TablePlus
-[x] - Меняем .env на postgresql://postgres:123456@localhost:5432/bank-app-js-intensive?schema=public
-[x] - Установить зависимости
-[x] - npx prisma db push
-[x] - Запуск back-end
-[x] - Импорт схемы в Insomnia
-[x] - Тестирование в программах
